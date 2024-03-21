@@ -2,7 +2,7 @@
 
 Welcome to the sdgp-ml repository!
 
-This repository contains notebooks and resources related to the Semantic Digital Governance Project (SDGP) machine learning component. Specifically, it includes two notebooks used for creating a dataset and fine-tuning a Mistral-7B-v0.1-Instruct model. Additionally, the repository houses the dataset utilized in fine-tuning the model.
+This repository contains notebooks and resources related to the Software Development Group Project (SDGP) machine learning component. Specifically, it includes two notebooks used for creating a dataset and fine-tuning a Mistral-7B-v0.1-Instruct model. Additionally, the repository houses the dataset utilized in fine-tuning the model.
 
 ## Requirements
 
